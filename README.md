@@ -23,6 +23,19 @@ Um complexo industrial e tecnológico equipado com sensores ambientais IoT neces
 "https://archive.ics.uci.edu/ml/machine-learning-databases/00357/occupancy_data.zip"
 
 
+#### Tecnologias usadas
+
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Jupyter notebook
+- GitHub e GitHub desktop
+
+#### Como executar
+
+- Clonar o repositorio.
+- Criar e ativar ambiente virtual.
+- Instalar as dependencias.
+- Abrir o notebook e executar as celulas em ordem.
+
 ### 2. Análise Exploratória (EDA) e preparaçao
 
 - A base de dados contém 20560 linhas e 7 colunas.
